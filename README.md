@@ -10,7 +10,7 @@ This is Telegram Parmanent Files Store Bot by [@AbirHasan2005](https://github.co
 - You can also Broadcast anythings via this Bot.
 - You can also Do Force Sub to a Channel to allow access the Bot.
 
-### Demo Bot:
+### Demo Bot:👈🏼
 <a href="https://t.me/SuperFilesStoreBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 ## Configs:
